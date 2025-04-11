@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\chenz\source\repos\ShippitApp\ShippitApp\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2025-04-11T06:25:52.6325840Z||;True|2025-04-11T16:01:15.1347913+10:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".dockerignore">
+      <publishTime>04/11/2025 16:04:27</publishTime>
+    </File>
+    <File Include="Dockerfile">
+      <publishTime>04/11/2025 16:21:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

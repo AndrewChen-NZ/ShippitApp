@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z8kAUqTN4batMVeFAb3us/6abNOzhfBIhgbuX9HiaYk=",
+  "Source": "ShippitApp",
+  "BasePath": "_content/ShippitApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

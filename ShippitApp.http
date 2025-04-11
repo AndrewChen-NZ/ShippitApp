@@ -1,0 +1,21 @@
+﻿@ShippitApp_HostAddress = https://localhost:7049
+
+POST {{ShippitApp_HostAddress}}/route
+Content-Type: application/json
+
+{
+  "from": "Sydney",
+  "to": "Brisbane",
+  "travel_time_seconds": 20000
+}
+
+###
+
+GET {{ShippitApp_HostAddress}}/route?from=Sydney&to=Brisbane
+
+###
+
+@id=1
+GET {{ShippitApp_HostAddress}}/route/{{id}}
+
+###
