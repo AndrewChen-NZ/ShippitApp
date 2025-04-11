@@ -5,10 +5,10 @@
 Requirements: .NET SDK 9.0
 dotnet --version  # Check the installed version of .NET SDK
 
-# Restore dependencies
+Restore dependencies:
 dotnet restore
 
-# Compile the project
+Compile the project:
 dotnet build
 
 Docker:
